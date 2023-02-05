@@ -15,10 +15,11 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://stackoverflow.com/users/20006716/vinayak-jamadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vinayakjamadar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinayak-jamadar-979879228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayakjamadar" height="30" width="40" /></a> 
-<a href="https://www.codechef.com/users/vinayaksj_1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinayaksj_1234" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/vinayakjamadar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayakjamadar" height="30" width="40" /></a> 
+<a href="https://www.codechef.com/users/vinayaksj_1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinayaksj_1234" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vinayaksj_1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vinayaksj_1234" height="30" width="40" /></a>
 <a href="https://leetcode.com/vinayaksj_1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayaksj_1234" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vinayaksj_1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinayaksj_1234" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
