@@ -1,6 +1,15 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vinayak Jamadar</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=VinayakJamadar&label=Profile%20views&color=0e75b6&style=flat" alt="VinayakJamadar" /> </p>
+<h1 align="center">
+  
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/VinayakJamadar)
+  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/VinayakJamadar)
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=VinayakJamadar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+</h1>
+
+
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=VinayakJamadar&label=Profile%20views&color=0e75b6&style=flat" alt="VinayakJamadar" /> </p> -->
 
 <h2 align="center">A Passionate Competitive Programmer and Web Developer from India.</h2>
 
