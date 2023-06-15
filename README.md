@@ -15,7 +15,7 @@
 
 <p align="center"> 🔭 I’m currently working on <b>few Web Development Projects</b> </p>
 
-<p align="center"> 🌱 I’m currently learning <b>Blockchain and Machine Learning</b> </p>
+<p align="center"> 🌱 I’m currently learning <b>Blockchain</b> </p>
 
 <p align="center"> 👯 I’m looking to collaborate on <b>Web Development and Blockchain Projects</b> </p>
 
