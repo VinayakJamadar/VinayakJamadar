@@ -13,11 +13,13 @@
 
 <h2 align="center">A Passionate Competitive Programmer and Web Developer from India.</h2>
 
-<p align="center"> 🔭 I’m currently working on <b>few Web Development Projects</b> </p>
+<p align="center"> 🔭 I'm currently working on <b>few Web Development Projects</b> </p>
 
-<p align="center"> 🌱 I’m currently learning <b>Blockchain</b> </p>
+<p align="center"> 🌱 I'm currently learning <b>Cloud and DevOps</b> </p>
 
-<p align="center"> 👯 I’m looking to collaborate on <b>Web Development and Blockchain Projects</b> </p>
+<p align="center"> 🔮 My objective is to acquire expertise in <b>Blockchain Technology</b> </p>
+
+<p align="center"> 👯 I'm looking to collaborate on <b>Web Development Projects</b> </p>
 
 <p align="center"> 💬 Ask me about <b>Competitive Programming and Web Development</b> </p>
 
